@@ -1,2 +1,4 @@
 pandas
 streamlit
+mypy
+pandas-stubs
